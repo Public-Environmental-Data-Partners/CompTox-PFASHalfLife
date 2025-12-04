@@ -1,3 +1,5 @@
+_This repo was forked for archival purposes by the [Public Environmental Data Partners](https://screening-tools.com/)._
+
 # CompTox-PFASHalfLife
 
 This repository accompanies the manuscript "A Machine Learning Model to Estimate Toxicokinetic Half-lives of Per- and Polyfluoro-alkyl Substances (PFAS) in Multiple Species" which is currently submitted to a journal for peer-review.
